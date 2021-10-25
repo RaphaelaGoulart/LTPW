@@ -1,0 +1,24 @@
+body{
+    color: gold;
+}
+
+.card{
+    background-color: transparent;
+    margin-bottom: 1.5em;
+    border: none;
+}
+
+.card img{
+  height: 250px;  
+}
+
+.titulo{
+    margin-top: 4.5em;
+    background-color: firebrick;
+    padding: 0.5em;
+    color: white;
+}
+
+#fim{
+    color: black;
+}

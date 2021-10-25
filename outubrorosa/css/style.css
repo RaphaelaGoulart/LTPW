@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(255, 246, 245);
+}
+.titulo{
+    margin-left: 3em;
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+    font-family: sans-serif;
+    color: hotpink;
+}
+.texto{
+    text-align: left;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.nav-link{
+    color: hotpink;
+}
+#outubro{
+    color: hotpink;
+    margin-left: 3em;
+}
+#img{
+    margin-bottom: 3em;
+}
+footer{
+    background-color: hotpink;
+    color: white;
+    margin-left: -7em;
+    margin-right: -7em;
+    margin-top: 2em;
+}
+#navbar{
+    background-color: hotpink;
+}
+#navbar2{
+    background-color: hotpink;
+}
