@@ -1,0 +1,39 @@
+#produtos,#sobre,#fale{
+    min-height: 100vh;
+    padding: 4em;
+}
+
+#produtos{
+    background-color: rgb(253, 241, 226);
+    color:rgb(124, 42, 165);
+}
+#sobre{
+    background-color: rgb(209, 148, 233);
+    color: rgb(124, 42, 165) ;
+}
+#fale{
+    background-color: rgb(124, 42, 165);
+    color: white;
+}
+nav{
+    position: fixed;
+    margin-top: 0px;
+    width: 100%;
+    z-index: 10000;
+}
+.nav-link{
+    color:rgb(124, 42, 165) ;
+}
+#botao{
+    background-color: rgb(124, 42, 165);
+}
+#produtos img{
+    max-height: 250px;
+}
+#card h5{
+    text-align: center; 
+}
+#h1{
+    margin-bottom: 1em;
+}
+
