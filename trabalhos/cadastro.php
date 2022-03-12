@@ -3,6 +3,7 @@
 $nome = $_POST["nome"];
 $nomep = $_POST["nomep"];
 $nomem = $_POST["nomem"];
+$cpf = $_POST["cpf"];
 
 
 if(isset($_POST["sexo"])){
@@ -23,9 +24,10 @@ $nacionalidade = $_POST["nacionalidade"];
 echo "<table>"."<tr>"."<td>"."NOME:".$nome. "</td>";
 echo "<td>"."NOME DO PAI:".$nomep. "</td>";
 echo "<td>"."NOME DA MÃE:".$nomem. "</td>". "</tr>";
-echo "<tr>". "<td>". "GRAU DE INSTRUÇÃO:".$escolaridade."</td>";
-echo "<td>". "NACIONALIDADE:". $nacionalidade. "</td>";
-echo "<td>". "SEXO:". $sexo. "</td>". "</tr>";
+echo "<tr>". "<td>". "CPF:". $cpf. "</td>";
+echo . "GRAU DE INSTRUÇÃO:".$escolaridade.;
+echo . "NACIONALIDADE:". $nacionalidade. ;
+echo . $sexo. ;
 
 
 
