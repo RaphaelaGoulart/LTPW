@@ -3,6 +3,9 @@
 $nome = $_POST["nome"];
 $nomep = $_POST["nomep"];
 $nomem = $_POST["nomem"];
+$data = $_POST["data"];
+$cpf = $_POST["cpf"];
+
 
 
 if(isset($_POST["sexo"])){
@@ -17,9 +20,6 @@ if(isset($_POST["sexo"])){
     $sexo= "Opção não foi Marcada";
 }
 
-
-$data = $_POST["data"];
-$cpf = $_POST["cpf"];
 $escolaridade = $_POST["escolaridade"];
 $nacionalidade = $_POST["nacionalidade"];
 
@@ -28,10 +28,10 @@ echo "<table>"."<tr>"."<td>"."NOME:".$nome. "</td>";
 echo "<td>"."NOME DO PAI:".$nomep. "</td>";
 echo "<td>"."NOME DA MÃE:".$nomem."</td>". "</tr>";
 echo "<tr>". "<td>". "CPF:". $cpf. "</td>";
-echo "<td>". "DATA DE NASCIMENTO:". $data. "</td>". "</tr>"
-echo . "GRAU DE INSTRUÇÃO:".$escolaridade.;
-echo . "NACIONALIDADE:". $nacionalidade. ;
-echo .  $sexo. ;
+echo "<td>". "DATA DE NASCIMENTO:". $data. "</td>". "</tr>";
+echo "GRAU DE INSTRUÇÃO:".$escolaridade;
+echo "NACIONALIDADE:". $nacionalidade ;
+echo  $sexo ;
 
 
 
