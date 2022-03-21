@@ -24,7 +24,7 @@
         
         <tr>
             <td>
-                CPF: <br> <input type="password" name="cpf" >
+                CPF: <br> <input type="text" name="cpf" >
             </td>
             <td>
                 DATA DE NASCIMENTO: <br> <input type="date" name="data">

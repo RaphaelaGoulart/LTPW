@@ -24,14 +24,20 @@ $escolaridade = $_POST["escolaridade"];
 $nacionalidade = $_POST["nacionalidade"];
 
 
-echo "<table>"."<tr>"."<td>"."NOME:".$nome. "</td>";
-echo "<td>"."NOME DO PAI:".$nomep. "</td>";
-echo "<td>"."NOME DA MÃE:".$nomem."</td>". "</tr>";
-echo "<tr>". "<td>". "CPF:". $cpf. "</td>";
-echo "<td>". "DATA DE NASCIMENTO:". $data. "</td>". "</tr>";
-echo "GRAU DE INSTRUÇÃO:".$escolaridade;
-echo "NACIONALIDADE:". $nacionalidade ;
-echo  $sexo ;
+echo "<table>"."<tr>"."<td>"."NOME:"."<br>".$nome. "</td>";
+echo "<td>"."NOME DO PAI:"."<br>".$nomep. "</td>";
+echo "<td>"."NOME DA MÃE:"."<br>".$nomem."</td>". "</tr>";
+echo "<tr>". "<td>". "CPF:"."<br>". $cpf. "</td>";
+echo "<td>". "DATA DE NASCIMENTO:"."<br>". $data. "</td>";
+echo "<td>". "SEXO:"."<br>". $sexo. "</td>". "</tr>";
+echo "<tr>"."<td>"."GRAU DE INSTRUÇÃO:"."<br>".$escolaridade ."</td>";
+echo "<td>"."NACIONALIDADE:"."<br>". $nacionalidade ."</td>". "</tr>";
+echo "<tr>". "<td>". "INTERESSES:". "<br>". "</td>"."</tr>";
+foreach($_POST["hob"]as $value){
+    echo "<tr>". "<td>"."*". $value. "<br>". "</td>". "</tr>". "</table>";
+}
+
+
 
 
 
