@@ -1,21 +1,41 @@
-<?php
-$con = mysqli_connect("localhost","root","","base");
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-$sql = "select * from cliente;";
-$dados = mysqli_query($con,$sql);
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-echo "<table border ='1'>";
-while($info = mysqli_fetch_array($dados)){
-    echo "<tr> <td>".$info['id_cli']."</td>";
-    echo "<td>".$info['nome_cli'] ."</td>";
-    echo "<td>".$info['cpf_cli'] ."</td>";
-    echo "<td>".$info['rg_cli'] ."</td>";
-    echo "<td>".$info['dt_nasc_cli'] ."</td>";
-    echo "<td>".$info['sexo_cli'] ."</td>";
-    echo "<td>".$info['escolaridade_cli'] ."</td>";
-    echo "<td>".$info['nome_pai_cli'] ."</td>";
-    echo "<td>".$info['nome_mae_cli'] ."</td></tr>";
-}
+    <title>trabalho bootstrap</title>
+  </head>
+  <body>
+        <?php
+        $con = mysqli_connect("localhost","root","","base");
+
+        $sql = "select * from cliente;";
+        $dados = mysqli_query($con,$sql);
+
+        echo "<table  class='table table-striped'>";
+        while($info = mysqli_fetch_array($dados)){
+            echo "<tr> <td>".$info['id_cli']."</td>";
+            echo "<td>".$info['nome_cli'] ."</td>";
+            echo "<td>".$info['cpf_cli'] ."</td>";
+            echo "<td>".$info['rg_cli'] ."</td>";
+            echo "<td>".$info['dt_nasc_cli'] ."</td>";
+            echo "<td>".$info['sexo_cli'] ."</td>";
+            echo "<td>".$info['escolaridade_cli'] ."</td>";
+            echo "<td>".$info['nome_pai_cli'] ."</td>";
+            echo "<td>".$info['nome_mae_cli'] ."</td></tr>";
+        }
 
 
-?>
+        ?>
+
+  
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    
+  </body>
+</html>
