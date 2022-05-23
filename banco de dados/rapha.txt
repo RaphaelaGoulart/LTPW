@@ -1,0 +1,255 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2022-05-20 07:05:14
+LastUsageStatisticCall<|||>1<|||>2022-05-06 10:43:52
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,154
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>4
+ExportSQL_Filenames<|||>1<|||>C:\Users\ETEOT\Desktop\siscrud.sql<{{{><}}}>E:\escola2.sql<{{{><}}}>C:\Users\ETEOT\Desktop\teste.sql<{{{><}}}>
+MainWinMaximized<|||>3<|||>1
+CreateDbCollation<|||>1<|||>utf8mb4_general_ci
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>389,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>195,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,415
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+DateTimeEditor_CursorPos_Type4<|||>3<|||>10
+PromptSaveFileOnTabClose<|||>3<|||>0
+querymemoheight<|||>3<|||>314
+MemoEditorWidth<|||>3<|||>136
+sqloutheight<|||>3<|||>63
+MainWinLeft<|||>3<|||>189
+MainWinTop<|||>3<|||>85
+MainWinHeight<|||>3<|||>599
+SessionManager_WindowLeft<|||>3<|||>446
+SessionManager_WindowTop<|||>3<|||>290
+SQLFile0<|||>1<|||>C:\Users\ETEOT\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-05-13_10-49-06-857.sql
+SQLFile1<|||>1<|||>C:\Users\ETEOT\Desktop\siscrud.sql
+SQLFile2<|||>1<|||>C:\Users\ETEOT\AppData\Roaming\HeidiSQL\Backups\query-tab-.sql
+FileDialogEncoding_MainForm<|||>3<|||>5
+Servers\coisaprakrl]\SessionCreated<|||>1<|||>2022-05-13 10:49:20
+Servers\coisaprakrl]\Host<|||>1<|||>127.0.0.1
+Servers\coisaprakrl]\WindowsAuth<|||>3<|||>0
+Servers\coisaprakrl]\CleartextPluginEnabled<|||>3<|||>0
+Servers\coisaprakrl]\User<|||>1<|||>root
+Servers\coisaprakrl]\Password<|||>1<|||>5
+Servers\coisaprakrl]\LoginPrompt<|||>3<|||>0
+Servers\coisaprakrl]\Port<|||>1<|||>3306
+Servers\coisaprakrl]\NetType<|||>3<|||>0
+Servers\coisaprakrl]\Compressed<|||>3<|||>0
+Servers\coisaprakrl]\LocalTimeZone<|||>3<|||>0
+Servers\coisaprakrl]\QueryTimeout<|||>3<|||>30
+Servers\coisaprakrl]\KeepAlive<|||>3<|||>20
+Servers\coisaprakrl]\FullTableStatus<|||>3<|||>1
+Servers\coisaprakrl]\Databases<|||>1<|||>
+Servers\coisaprakrl]\Library<|||>1<|||>libmariadb.dll
+Servers\coisaprakrl]\Comment<|||>1<|||>
+Servers\coisaprakrl]\StartupScriptFilename<|||>1<|||>
+Servers\coisaprakrl]\TreeBackground<|||>3<|||>536870911
+Servers\coisaprakrl]\SSHtunnelHost<|||>1<|||>
+Servers\coisaprakrl]\SSHtunnelHostPort<|||>3<|||>22
+Servers\coisaprakrl]\SSHtunnelUser<|||>1<|||>
+Servers\coisaprakrl]\SSHtunnelPassword<|||>1<|||>9
+Servers\coisaprakrl]\SSHtunnelTimeout<|||>3<|||>4
+Servers\coisaprakrl]\SSHtunnelPrivateKey<|||>1<|||>
+Servers\coisaprakrl]\SSHtunnelPort<|||>3<|||>3307
+Servers\coisaprakrl]\SSL_Active<|||>3<|||>0
+Servers\coisaprakrl]\SSL_Key<|||>1<|||>
+Servers\coisaprakrl]\SSL_Cert<|||>1<|||>
+Servers\coisaprakrl]\SSL_CA<|||>1<|||>
+Servers\coisaprakrl]\SSL_Cipher<|||>1<|||>
+Servers\coisaprakrl]\IgnoreDatabasePattern<|||>1<|||>
+Servers\coisaprakrl]\ServerVersionFull<|||>1<|||>10.4.18-MariaDB - mariadb.org binary distribution
+Servers\coisaprakrl]\ConnectCount<|||>3<|||>2
+Servers\coisaprakrl]\ServerVersion<|||>3<|||>100418
+Servers\coisaprakrl]\LastConnect<|||>1<|||>2022-05-13 11:02:12
+Servers\coisaprakrl]\lastUsedDB<|||>1<|||>siseteot
+Servers\coisaprakrl]\QueryHistory\1<|||>1<|||>2022-05-13 10:58:06||0|CREATE DATABASE siseteot
+Servers\coisaprakrl]\QueryHistory\2<|||>1<|||>2022-05-13 11:28:06|siseteot|47|CREATE TABLE responsavel(<{{{><}}}>id_resp VARCHAR(10) NOT NULL,<{{{><}}}>nome_resp VARCHAR(10) NOT NULL,<{{{><}}}>cpf varchar (11),<{{{><}}}>rg_resp VARCHAR(11) ,<{{{><}}}>cel INT ,<{{{><}}}>email VARCHAR(50) NOT NULL,<{{{><}}}>CONSTRAINT pk_resp PRIMARY KEY (id_resp))<{{{><}}}>;
+Servers\coisaprakrl]\QueryHistory\3<|||>1<|||>2022-05-13 11:47:38|siseteot|31|CREATE TABLE aluno(<{{{><}}}>idmatricula_alu VARCHAR(50) PRIMARY key,<{{{><}}}>nome_alu VARCHAR(20),<{{{><}}}>sobrenome_alu varchar(20),<{{{><}}}>cpf VARCHAR(11),<{{{><}}}>rg VARCHAR(11),<{{{><}}}>dt_nasc_alu DATE,<{{{><}}}>nome_pai VARCHAR(50),<{{{><}}}>nome_mae VARCHAR(50),<{{{><}}}>sexo_alu VARCHAR(10),<{{{><}}}>num_chamada VARCHAR(20),<{{{><}}}>tip_alu VARCHAR(10),<{{{><}}}>situacao VARCHAR(10),<{{{><}}}>usuario_alu VARCHAR(10),<{{{><}}}>senha VARCHAR(10),<{{{><}}}>email VARCHAR(50),<{{{><}}}>nivel INT,<{{{><}}}>ativo_usu_alu CHAR(1),<{{{><}}}>cep VARCHAR (11),<{{{><}}}>num_resid_alu VARCHAR(50),<{{{><}}}>complemento_alu VARCHAR(20))<{{{><}}}><{{{><}}}>; 
+Servers\coisaprakrl]\QueryHistory\4<|||>1<|||>2022-05-13 11:53:51|siseteot|16|CREATE TABLE localidade(<{{{><}}}>cep VARCHAR(20) PRIMARY KEY,<{{{><}}}>tp_logradouro varchar(50),<{{{><}}}>bairro VARCHAR(50),<{{{><}}}>cidade VARCHAR(50),<{{{><}}}>uf VARCHAR (2))<{{{><}}}><{{{><}}}>; 
+Servers\Unnamed\SessionCreated<|||>1<|||>2022-03-18 11:39:37
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>6
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>3
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.4.18-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>13
+Servers\Unnamed\ServerVersion<|||>3<|||>100418
+Servers\Unnamed\LastConnect<|||>1<|||>2022-05-20 07:05:29
+Servers\Unnamed\lastUsedDB<|||>1<|||>animestation
+Servers\Unnamed\RefusedCount<|||>3<|||>1
+Servers\Unnamed\base|cliente\Sort<|||>1<|||>0_nome_cli|0_id_cli|
+Servers\Unnamed\base|usuario\Sort<|||>1<|||>0_id_usu|
+Servers\Unnamed\escola2|aluno\Sort<|||>1<|||>0_nome|1_matricula|
+Servers\Unnamed\QueryHistory\18<|||>1<|||>2022-04-29 11:19:17|base|0|CREATE DATABASE av1<{{{><}}}>
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2022-04-29 11:29:13|av1|32|CREATE TABLE aluno(<{{{><}}}>mat_alu INT auto_increment,<{{{><}}}>nome_alu VARCHAR(50),<{{{><}}}>rg_alu CHAR(9),<{{{><}}}>cpf_alu CHAR(11),<{{{><}}}>telefone CHAR(8),<{{{><}}}>comp_alu VARCHAR(10),<{{{><}}}>cep CHAR (8),<{{{><}}}>PRIMARY KEY (mat_alu)<{{{><}}}>);
+Servers\Unnamed\QueryHistory\19<|||>1<|||>2022-04-29 11:34:29|av1|31|CREATE TABLE localidade(<{{{><}}}>cep CHAR (8),<{{{><}}}>logradouro CHAR (50),<{{{><}}}>bairro CHAR (20),<{{{><}}}>cidade CHAR(20),<{{{><}}}>uf CHAR(2),<{{{><}}}>PRIMARY KEY(cep)<{{{><}}}>);
+Servers\Unnamed\QueryHistory\20<|||>1<|||>2022-05-06 10:51:47|av1|0|CREATE DATABASE curso
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2022-05-20 07:06:02|av1|0|CREATE DATABASE intervendas;<{{{><}}}>
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2022-05-20 07:08:54|intervendas|63|CREATE TABLE cep(<{{{><}}}>cep INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>logradouro VARCHAR(50),<{{{><}}}>bairro varchar(30),<{{{><}}}>cidade VARCHAR(40),<{{{><}}}>uf VARCHAR(2)<{{{><}}}>) ENGINE= INNODB;<{{{><}}}>
+Servers\Unnamed\QueryHistory\4<|||>1<|||>2022-05-20 07:16:43|intervendas|31|create TABLE funcionário(<{{{><}}}>cod_func INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_func VARCHAR(50),<{{{><}}}>cpf_func CHAR(12),<{{{><}}}>rg_func CHAR(12),<{{{><}}}>tel_func CHAR(15),<{{{><}}}>cel_func CHAR(15),<{{{><}}}>email_func VARCHAR(50),<{{{><}}}>n_endereco CHAR(5),<{{{><}}}>comp_endereco VARCHAR(15),<{{{><}}}>dt_nasc DATE,<{{{><}}}>sexo VARCHAR(15),<{{{><}}}>dt_cadastramento DATE,<{{{><}}}>cep INT NOT NULL,<{{{><}}}>CONSTRAINT fk_cep FOREIGN KEY(cep) REFERENCES cep(cep)<{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2022-05-20 07:23:06|intervendas|32|create TABLE cliente(<{{{><}}}>cod_cli INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_cli VARCHAR(50),<{{{><}}}>cpf_cli CHAR(12),<{{{><}}}>tel_cli CHAR(15),<{{{><}}}>cel_cli CHAR(15),<{{{><}}}>sexo_cli VARCHAR(15),<{{{><}}}>num_end_cli CHAR(5),<{{{><}}}>comp_end_cli VARCHAR(15),<{{{><}}}>dt_cadastramento_cli DATE,<{{{><}}}>email_cli VARCHAR(50)<{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\6<|||>1<|||>2022-05-20 07:32:03|intervendas|32|create TABLE fornecedor(<{{{><}}}>cod_for INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_for VARCHAR(50),<{{{><}}}>razao_social VARCHAR(40),<{{{><}}}>num_end_for CHAR(5),<{{{><}}}>comp_end_for VARCHAR(15),<{{{><}}}>tel_for CHAR(15),<{{{><}}}>email_for VARCHAR(50),<{{{><}}}>nome_rep VARCHAR(50),<{{{><}}}>cnpj CHAR(12),<{{{><}}}>cel_rep CHAR(15)<{{{><}}}> <{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\7<|||>1<|||>2022-05-20 07:35:18|intervendas|32|create TABLE usuario(<{{{><}}}>cod_usu INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>usuario VARCHAR(30),<{{{><}}}>senha VARCHAR(20),<{{{><}}}>nivel VARCHAR(15)<{{{><}}}><{{{><}}}> <{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\8<|||>1<|||>2022-05-20 07:41:48|intervendas|32|create TABLE produto(<{{{><}}}>cod_prod INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>desc_prod VARCHAR(90),<{{{><}}}>valor_compra_prod FLOAT,<{{{><}}}>fab_prod VARCHAR(50),<{{{><}}}>tmp_garantia_prod CHAR(10),<{{{><}}}>qt_min_estoc CHAR (5),<{{{><}}}>qt_prod_estoc CHAR(9),<{{{><}}}>valor_venda_prod FLOAT,<{{{><}}}>localizacao_prod VARCHAR(20),<{{{><}}}>nota_prod VARCHAR(50)<{{{><}}}> <{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\9<|||>1<|||>2022-05-20 07:44:34|intervendas|31|create TABLE devolucao(<{{{><}}}>cod_dev INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>obs VARCHAR(90),<{{{><}}}>dt_dev date,<{{{><}}}>fab_prod VARCHAR(50),<{{{><}}}>valor_dev FLOAT,<{{{><}}}>qtde CHAR(20)<{{{><}}}><{{{><}}}> <{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\10<|||>1<|||>2022-05-20 07:47:32|intervendas|31|create TABLE caixa(<{{{><}}}>cod_caixa INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>qtde_prod CHAR(10),<{{{><}}}>dt_venda date,<{{{><}}}>valor_subtotal FLOAT<{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\11<|||>1<|||>2022-05-20 07:52:30|intervendas|16|create TABLE cupom_fiscal(<{{{><}}}>cod_cupom INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>cod_fpgto CHAR(20),<{{{><}}}>valor_total FLOAT,<{{{><}}}>status_c VARCHAR(20),<{{{><}}}>dt_venda_c DATE,<{{{><}}}>val_rec FLOAT,<{{{><}}}>troco float<{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\12<|||>1<|||>2022-05-20 07:58:20|intervendas|32|create TABLE forma_pag(<{{{><}}}>cod_pgto INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>forma_pgto varCHAR(20)<{{{><}}}>)ENGINE= INNODB;
+Servers\Unnamed\QueryHistory\13<|||>1<|||>2022-05-20 08:02:20|intervendas|0|create DATABASE alegro_vivace;
+Servers\Unnamed\QueryHistory\14<|||>1<|||>2022-05-20 08:04:59|alegro_vivace|31|create TABLE cep(<{{{><}}}>cep CHAR(8) NOT NULL PRIMARY KEY,<{{{><}}}>logradouro VARCHAR(50),<{{{><}}}>bairro VARCHAR(50),<{{{><}}}>cidade VARCHAR(50),<{{{><}}}>uf VARCHAR (2)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\15<|||>1<|||>2022-05-20 08:07:43|alegro_vivace|31|create TABLE funcao(<{{{><}}}>cod_funcao int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_funcao VARCHAR(50),<{{{><}}}>tipo_funcao VARCHAR(50)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\16<|||>1<|||>2022-05-20 08:08:58|alegro_vivace|16|create TABLE tabela_preco(<{{{><}}}>cod_preco int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>valor_cerimonia float,<{{{><}}}>valor_recepcao float<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\17<|||>1<|||>2022-05-20 08:14:40|alegro_vivace|16|create TABLE funcionario(<{{{><}}}>cod_func int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_func VARCHAR(50),<{{{><}}}>dt_nasc DATE,<{{{><}}}>rg_func CHAR(12),<{{{><}}}>cpf_func CHAR(12),<{{{><}}}>tel1 CHAR(15),<{{{><}}}>tel2 CHAR(15),<{{{><}}}>email1 VARCHAR(50),<{{{><}}}>email2 VARCHAR(50),<{{{><}}}>num_comp_func CHAR(5),<{{{><}}}>dt_cadastro date<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\21<|||>1<|||>2022-05-20 08:19:47|alegro_vivace|16|create TABLE usuario(<{{{><}}}>cod_usu int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>usuario VARCHAR(50),<{{{><}}}>senha VARCHAR(20),<{{{><}}}>nivel varCHAR(20),<{{{><}}}>pergunta VARCHAR(100),<{{{><}}}>reposta VARCHAR(100)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\22<|||>1<|||>2022-05-20 08:24:10|alegro_vivace|47|create TABLE cliente(<{{{><}}}>cod_cli int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_cli VARCHAR(50),<{{{><}}}>dt_nasc DATE,<{{{><}}}>rg_cli CHAR(12),<{{{><}}}>cpf_cli CHAR(12),<{{{><}}}>tel1_cli CHAR(15),<{{{><}}}>tel2_cli CHAR(15),<{{{><}}}>email_cli VARCHAR(50),<{{{><}}}>num_comp_cli CHAR(5),<{{{><}}}>dt_cadastro_cli date<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\23<|||>1<|||>2022-05-20 08:28:27|alegro_vivace|31|create TABLE local_evento(<{{{><}}}>cod_loc int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_loc VARCHAR(50),<{{{><}}}>num_comp CHAR(5),<{{{><}}}>pto_ref VARCHAR(50),<{{{><}}}>tel_loc char(15)<{{{><}}}><{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\24<|||>1<|||>2022-05-20 08:30:35|alegro_vivace|31|create TABLE evento(<{{{><}}}>cod_eve int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_eve VARCHAR(50)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\25<|||>1<|||>2022-05-20 08:32:51|alegro_vivace|47|create TABLE musica(<{{{><}}}>cod_musica int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_musica VARCHAR(50),<{{{><}}}>compositor VARCHAR(50),<{{{><}}}>cantor VARCHAR(50),<{{{><}}}>cam_part VARCHAR(50),<{{{><}}}>cam_audio VARCHAR(50)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\26<|||>1<|||>2022-05-20 08:33:34|alegro_vivace|31|create TABLE operadora(<{{{><}}}>cod_op int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_op VARCHAR(50)<{{{><}}}><{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\27<|||>1<|||>2022-05-20 08:34:12|alegro_vivace|31|create TABLE forma_pgto(<{{{><}}}>cod_pgto int PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_pgto VARCHAR(50)<{{{><}}}><{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\28<|||>1<|||>2022-05-20 08:35:12|alegro_vivace|15|create TABLE cartao(<{{{><}}}>autorizacao VARCHAR(20)<{{{><}}}><{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\29<|||>1<|||>2022-05-20 08:41:30|alegro_vivace|32|create TABLE agenda(<{{{><}}}>cod_age INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>dt_agendamento DATE,<{{{><}}}>dt_eve DATE,<{{{><}}}>hr_inicio CHAR (10),<{{{><}}}>tipo_festa VARCHAR(15),<{{{><}}}>hr_fim CHAR(10),<{{{><}}}>inf_contato VARCHAR(50),<{{{><}}}>equipe VARCHAR(100),<{{{><}}}>obs_age VARCHAR(100),<{{{><}}}>situacao VARCHAR(20) <{{{><}}}><{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\30<|||>1<|||>2022-05-20 08:45:29|alegro_vivace|15|create TABLE mus_agendado(<{{{><}}}>turno VARCHAR(20)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\31<|||>1<|||>2022-05-20 08:49:33|alegro_vivace|16|create TABLE pagamento(<{{{><}}}>num_nota_fiscal INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>data_pgto DATE,<{{{><}}}>valor_serv FLOAT,<{{{><}}}>valor_desc FLOAT,<{{{><}}}>valor_total_pgto FLOAT<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\32<|||>1<|||>2022-05-20 08:52:49|alegro_vivace|16|create TABLE repertorio(<{{{><}}}>cod_repertorio INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>obs VARCHAR(90)<{{{><}}}>)ENGINE=innodb;
+Servers\Unnamed\QueryHistory\33<|||>1<|||>2022-05-20 08:55:35|alegro_vivace|0|CREATE DATABASE animestation;<{{{><}}}>
+Servers\Unnamed\QueryHistory\34<|||>1<|||>2022-05-20 08:57:40|animestation|15|CREATE table setor(<{{{><}}}>cod_setor INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>corredor VARCHAR(10),<{{{><}}}>prateleira VARCHAR(10),<{{{><}}}>andar VARCHAR(10)<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\35<|||>1<|||>2022-05-20 08:59:12|animestation|31|CREATE table cep(<{{{><}}}>cep INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>logradouro VARCHAR(50),<{{{><}}}>bairro VARCHAR(50),<{{{><}}}>municipio VARCHAR(50),<{{{><}}}>uf VARCHAR(2)<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\36<|||>1<|||>2022-05-20 09:00:12|animestation|31|CREATE table cargo(<{{{><}}}>cod_cargo INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome VARCHAR(50),<{{{><}}}>salario VARCHAR(10)<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\37<|||>1<|||>2022-05-20 09:03:23|animestation|15|CREATE table cliente(<{{{><}}}>cod_cli INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_cli VARCHAR(50),<{{{><}}}>cpf_cli CHAR(12),<{{{><}}}>rg_cli CHAR(12),<{{{><}}}>compl_end_cli VARCHAR(20),<{{{><}}}>nr CHAR(10),<{{{><}}}>tel_cli CHAR(15),<{{{><}}}>cel_cli CHAR(15)<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\38<|||>1<|||>2022-05-20 09:11:18|animestation|15|CREATE table funcionario(<{{{><}}}>matricula INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome_func VARCHAR(50),<{{{><}}}>cpf_func  CHAR(12),<{{{><}}}>rg_func  CHAR(12),<{{{><}}}>dt_emis_rg date,<{{{><}}}>orgao_exp VARCHAR(20),<{{{><}}}>nr_cert_reserv CHAR(15),<{{{><}}}>n_titulo_eleitor CHAR(15),<{{{><}}}>zona_eleitoral VARCHAR(20),<{{{><}}}>secao VARCHAR(20),<{{{><}}}>filiacao VARCHAR(100),<{{{><}}}>qualif_civil VARCHAR(40),<{{{><}}}>grf_de_inst VARCHAR(40),<{{{><}}}>n_cat_trab CHAR (15),<{{{><}}}>comp_end_func VARCHAR(20),<{{{><}}}>nr_end_func CHAR(5),<{{{><}}}>sexo VARCHAR(10) <{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\39<|||>1<|||>2022-05-20 09:16:01|animestation|31|CREATE table fornecedor(<{{{><}}}>cnpj INT PRIMARY KEY ,<{{{><}}}>nome_empesa VARCHAR(50),<{{{><}}}>nome_resp VARCHAR(50),<{{{><}}}>cpf_for  CHAR(12),<{{{><}}}>rg_for  CHAR(12),<{{{><}}}>dt_emis_rg_for date,<{{{><}}}>orgao_exp VARCHAR(20),<{{{><}}}>tel_for CHAR (15),<{{{><}}}>cel_for CHAR(15),<{{{><}}}>comp_end_for VARCHAR(20),<{{{><}}}>nr_end_for CHAR(5) <{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\40<|||>1<|||>2022-05-20 09:17:13|animestation|31|CREATE table usuario(<{{{><}}}>cos_usu INT PRIMARY KEY auto_increment,<{{{><}}}>usuario VARCHAR(50),<{{{><}}}>senha VARCHAR(50),<{{{><}}}>nivel VARCHAR(20) <{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\41<|||>1<|||>2022-05-20 09:19:04|animestation|32|CREATE table conta(<{{{><}}}>cos_conta INT PRIMARY KEY auto_increment,<{{{><}}}>nome VARCHAR(50),<{{{><}}}>tpo VARCHAR(50)<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\42<|||>1<|||>2022-05-20 09:20:57|animestation|31|CREATE table desp_func(<{{{><}}}>cod_func INT,<{{{><}}}>cod_recibo INT,<{{{><}}}>valor float<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\43<|||>1<|||>2022-05-20 09:25:34|animestation|16|CREATE table desp_forn(<{{{><}}}>nr_nt_fiscal INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>dt_compra_prod DATE,<{{{><}}}>val_pag float<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\44<|||>1<|||>2022-05-20 09:29:36|animestation|16|CREATE table produto(<{{{><}}}>cod_prod INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>nome VARCHAR(50),<{{{><}}}>preco_compra FLOAT,<{{{><}}}>preco_venda FLOAT,<{{{><}}}>qtde_prod CHAR(10),<{{{><}}}>qtde_min CHAR(10),<{{{><}}}>tipo VARCHAR (20),<{{{><}}}>dt_atualizacao DATE<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\45<|||>1<|||>2022-05-20 09:32:24|animestation|31|CREATE table mci(<{{{><}}}>cod_mci INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>classe VARCHAR(50),<{{{><}}}>capacidade VARCHAR(20),<{{{><}}}>dt_compra date,<{{{><}}}>vl_aquisicao float<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\46<|||>1<|||>2022-05-20 09:34:57|animestation|31|CREATE table recibo(<{{{><}}}>cod_recibo INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>tipo VARCHAR(50),<{{{><}}}>dt_recibo date,<{{{><}}}>vl_tot_recibo float<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\47<|||>1<|||>2022-05-20 09:36:23|animestation|32|CREATE table desp_mci(<{{{><}}}>valor float<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\48<|||>1<|||>2022-05-20 09:38:08|animestation|16|CREATE table devolucao(<{{{><}}}>valor_tl FLOAT,<{{{><}}}>at_devolucao date<{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\49<|||>1<|||>2022-05-20 09:40:07|animestation|16|CREATE table extravio(<{{{><}}}>valor_total FLOAT,<{{{><}}}>dt_extravio DATE<{{{><}}}><{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\50<|||>1<|||>2022-05-20 09:42:07|animestation|15|CREATE table geral(<{{{><}}}>dt_venc DATE,<{{{><}}}>dt_pag DATE,<{{{><}}}>valor_g FLOAT<{{{><}}}><{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed\QueryHistory\51<|||>1<|||>2022-05-20 09:44:20|animestation|16|CREATE table compra(<{{{><}}}>vl_compra FLOAT,<{{{><}}}>qtde_compra CHAR(20),<{{{><}}}>subtotal FLOAT,<{{{><}}}>nome_prod VARCHAR (50)<{{{><}}}><{{{><}}}>)ENGINE=innodb;<{{{><}}}>
+Servers\Unnamed-1\SessionCreated<|||>1<|||>2022-05-06 10:52:43
+Servers\Unnamed-1\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-1\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-1\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-1\User<|||>1<|||>root
+Servers\Unnamed-1\Password<|||>1<|||>4
+Servers\Unnamed-1\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-1\Port<|||>1<|||>3306
+Servers\Unnamed-1\NetType<|||>3<|||>0
+Servers\Unnamed-1\Compressed<|||>3<|||>0
+Servers\Unnamed-1\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-1\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-1\KeepAlive<|||>3<|||>20
+Servers\Unnamed-1\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-1\Databases<|||>1<|||>
+Servers\Unnamed-1\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-1\Comment<|||>1<|||>
+Servers\Unnamed-1\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-1\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-1\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-1\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPassword<|||>1<|||>2
+Servers\Unnamed-1\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-1\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-1\SSL_Active<|||>3<|||>0
+Servers\Unnamed-1\SSL_Key<|||>1<|||>
+Servers\Unnamed-1\SSL_Cert<|||>1<|||>
+Servers\Unnamed-1\SSL_CA<|||>1<|||>
+Servers\Unnamed-1\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-1\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed-1\ServerVersionFull<|||>1<|||>10.4.18-MariaDB - mariadb.org binary distribution
+Servers\Unnamed-1\ConnectCount<|||>3<|||>3
+Servers\Unnamed-1\ServerVersion<|||>3<|||>100418
+Servers\Unnamed-1\LastConnect<|||>1<|||>2022-05-07 11:12:51
+Servers\Unnamed-1\lastUsedDB<|||>1<|||>siscrud
+Servers\Unnamed-1\QueryHistory\1<|||>1<|||>2022-05-06 10:57:35|curso|16|CREATE TABLE aluno(<{{{><}}}>codmatricula INT PRIMARY key,<{{{><}}}>turma_idturma INT,<{{{><}}}>datamatricula DATE,<{{{><}}}>nome VARCHAR(45),<{{{><}}}>endereco TEXT,<{{{><}}}>telefone INT,<{{{><}}}>datanascimento DATE,<{{{><}}}>altura FLOAT,<{{{><}}}>peso INT);<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\2<|||>1<|||>2022-05-06 10:58:05|curso|32|CREATE TABLE turma(<{{{><}}}>idturma INT primary key,<{{{><}}}>horario TIME,<{{{><}}}>duracao INT,<{{{><}}}>datainicio DATE,<{{{><}}}>datafim DATE,<{{{><}}}>atividade_idatividade INT,<{{{><}}}>instrutor_idinstrutor INT);<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\3<|||>1<|||>2022-05-06 10:59:11|curso|31|CREATE TABLE instrutor(<{{{><}}}>idinstrutor INT,<{{{><}}}>rg INT,<{{{><}}}>nome VARCHAR (45),<{{{><}}}>nascimento DATE,<{{{><}}}>titulacao INT);
+Servers\Unnamed-1\QueryHistory\4<|||>1<|||>2022-05-06 11:01:45|curso|15|CREATE TABLE atividade(<{{{><}}}>idatividade INT PRIMARY KEY,<{{{><}}}>nome VARCHAR (100)<{{{><}}}>);
+Servers\Unnamed-1\QueryHistory\5<|||>1<|||>2022-05-06 11:12:52|curso|47|CREATE table instrutor(<{{{><}}}>idinstrutor INT PRIMARY KEY,<{{{><}}}>rg INT,<{{{><}}}>nome VARCHAR (45),<{{{><}}}>nascimento DATE,<{{{><}}}>titulacao INT);
+Servers\Unnamed-1\QueryHistory\6<|||>1<|||>2022-05-06 11:16:58|curso|0|create DATABASE NOME
+Servers\Unnamed-1\QueryHistory\7<|||>1<|||>2022-05-06 11:19:04|nome|31|CREATE TABLE cliente(<{{{><}}}>id INT,<{{{><}}}>nome VARCHAR(45),<{{{><}}}>telefone VARCHAR(45),<{{{><}}}>email VARCHAR (45));
+Servers\Unnamed-1\QueryHistory\8<|||>1<|||>2022-05-06 11:19:36|nome|47|CREATE TABLE vendedor(<{{{><}}}>id INT,<{{{><}}}>nome VARCHAR (45));
+Servers\Unnamed-1\QueryHistory\9<|||>1<|||>2022-05-06 11:20:48|nome|31|CREATE TABLE pagamento(<{{{><}}}>id INT,<{{{><}}}>forma_pagamento VARCHAR(45));
+Servers\Unnamed-1\QueryHistory\10<|||>1<|||>2022-05-06 11:26:30|nome|31|CREATE TABLE cliente(<{{{><}}}>id INT PRIMARY KEY,<{{{><}}}>nome VARCHAR (45),<{{{><}}}>telefone VARCHAR (45),<{{{><}}}>email VARCHAR (45));<{{{><}}}><{{{><}}}>
+Servers\Unnamed-1\QueryHistory\11<|||>1<|||>2022-05-06 11:27:02|nome|15|CREATE TABLE vendedor(<{{{><}}}>id INT PRIMARY KEY,<{{{><}}}>nome VARCHAR (45));<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\12<|||>1<|||>2022-05-06 11:27:40|nome|31|CREATE TABLE pagamento(<{{{><}}}>id INT PRIMARY KEY,<{{{><}}}>forma_pagamento VARCHAR (45));<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\13<|||>1<|||>2022-05-06 11:28:11|nome|31|CREATE TABLE categoria(<{{{><}}}>id INT primary KEY,<{{{><}}}>nome VARCHAR (45));<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\14<|||>1<|||>2022-05-06 11:28:45|nome|31|CREATE TABLE fornecedores (<{{{><}}}>id INT PRIMARY KEY,<{{{><}}}>cnpj VARCHAR (45),<{{{><}}}>nome VARCHAR (45));<{{{><}}}>
