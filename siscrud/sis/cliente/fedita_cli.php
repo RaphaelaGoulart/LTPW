@@ -4,11 +4,8 @@
 	$sql = mysqli_query($con, "select * from cliente where id_cli = '".$id."';");
 	$row = mysqli_fetch_array($sql);
 ?>
-<<<<<<< HEAD
 
 
-=======
->>>>>>> c72bdb71bd2a6635c56695ff36db0513b18cb3a0
 <!doctype html>
 <html lang="en">
   <head>
@@ -18,12 +15,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
   </head>
   <body>
-<<<<<<< HEAD
   
 <div id="main" class="container-fluid">
-=======
-  <div id="main" class="container-fluid">
->>>>>>> c72bdb71bd2a6635c56695ff36db0513b18cb3a0
 	<br><h3 class="page-header">Editar registro do Cliente - <?php echo $id;?></h3>
 
 	<!-- Área de campos do formulário de edição-->
