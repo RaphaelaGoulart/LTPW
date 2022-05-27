@@ -29,7 +29,7 @@
 </head>
 <body>
 		
-			
+		<form action="validacao.php" method="post">
 				<div class="limiter">
 					<div class="container-login100" style="background-image: url(https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFya2luZyUyMGxvdHN8ZW58MHx8MHx8&w=1000&q=80);">
 						<div class="wrap-login100 p-t-30 p-b-50">
@@ -50,20 +50,11 @@
 									<span class="focus-input100" data-placeholder="&#xe80f;"></span>
 								</div>
 
-								<div class="wrap-input100 validate-input" data-validate="Enter nivel">
-									<select class="form-select form-select-lg mb-6" id="select"aria-label=".form-select-lg example">
-										<option selected id="asel">Nível</option>
-										<option value="2">2</option>
-										<option value="3">3</option>
-										<option value="4">4</option>
-									</select>
-									
-									
-								</div>
+							
 
 								<div class="container-login100-form-btn m-t-32">
 									<button class="login100-form-btn">
-										Login
+										login
 									</button>
 								</div>
 
@@ -75,7 +66,7 @@
 		
 
 	<div id="dropDownSelect1"></div>
-	
+</form>
 <!--===============================================================================================-->
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
